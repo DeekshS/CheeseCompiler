@@ -1,0 +1,79 @@
+/* Example of your existing CSS */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #5c6bc0;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #5c6bc0;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3f4e92;
+}
+
+.output {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+    background-color: #e8f5e9;
+    padding: 15px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.error {
+    margin-top: 20px;
+    font-size: 18px;
+    color: red;
+    background-color: #f8d7da;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.code-box {
+    margin-top: 20px;
+    background-color: #e3f2fd;
+    padding: 15px;
+    font-family: monospace;
+    text-align: left !important;
+    white-space: pre-wrap;
+    border-radius: 5px;
+    word-wrap: break-word;
+}
+
+.header {
+    font-size: 22px;
+    color: #3949ab;
+}
